@@ -1,2 +1,7 @@
 /g/[important]MyCode/program-wheels-based-cplusplus-
 2018年01月 2日 20:08:17
+[master 2c9b7aa] update
+ 1 file changed, 2 insertions(+)
+ create mode 100644 git_push_all_projects_in_pwd_LOG.txt
+/g/[important]MyCode/program-wheels-based-cplusplus-
+2018年01月 3日  9:04:24
